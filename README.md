@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hoahtk
 - 👀 I’m interested in microeconomics, demand analysis, food policy.
 - 🌱 I’m currently learning R (a bit) and advanced demand analysis using household data (quite much).
-- 💞️ I’m looking to collaborate on demand analaysis work.
+- 💞️ I’m looking to collaborate on demand analysis work.
 - 📫 How to reach me: email hoangh@missouri.edu.
 
 <!---
